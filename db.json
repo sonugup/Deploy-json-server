@@ -20,15 +20,7 @@
            {"username" : "Bob", "content" : "Loved It!"}]
        }
      ],
-     "users":[
-       {
-         "id":1,
-         "Username":"Shravani Mishra",
-         "Avatar":"https://cdn.pixabay.com/photo/2014/04/02/17/07/user-307993__340.png",
-         "Email":"Shravniguddi@gmail.com",
-         "Password":"1234"
-       }
-     ],
+     
    
     "products": [
         {
